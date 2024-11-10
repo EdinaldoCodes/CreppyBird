@@ -18,7 +18,7 @@ Prepare-se para uma experiência divertida e aterrorizante, com gráficos inspir
     <li><b>Efeitos Sonoros de Terror</b>: Sons sinistros e risadas macabras para aumentar a imersão.</li>
     <li><b>Música Temática</b>: Uma trilha sonora sombria para complementar a atmosfera de Halloween.</li>
     <li><b>Sistema de Pontuação</b>: A cada obstáculo superado, sua pontuação aumenta.</li>
-    <li><b>Dificuldades</b>: Quanto mior os pontos, mais veloz fica o desafio.</li>
+    <li><b>Dificuldades</b>: Quanto maior os pontos, mais veloz fica o desafio.</li>
 </ul>
 
 <hr></hr>
